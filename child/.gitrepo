@@ -5,7 +5,7 @@
 ;
 [subrepo]
 	remote = https://github.com/Cardanis/SubRepoTestChild
-	branch = master
-	commit = 4b849c7b22d87c26f19f10ece41a514b6638b3d6
-	parent = d1b9ad6bc03e28f7ef169ecb16e8a100383d8973
+	branch = testBranchChild1
+	commit = 2a920c654ad4ecfa0d43e17e446b91d21de41558
+	parent = 18748e19a006c45ad2bd074d8cc8ac0708da538d
 	cmdver = 0.3.1
